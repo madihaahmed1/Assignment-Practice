@@ -31,5 +31,6 @@ editor: visual
 * COUNTER usage statistics
 * Peer review
 * SAFES Data
-* FAIR Principles
+* FAIR Principles: A set of guidelines for managing research data so that it is Findable, Accessible, Interoperable, and Reusable. The goal is to make data easy for both people and computers to find, access, combine with other data and use it again.
+Source: https://www.canada.ca/en/government/system/digital-government/digital-government-innovations/information-management/guidance-assessing-readiness-manage-data-according-findable-accessible-interoperable-reusable-principles.html 
 * CARE Principles
